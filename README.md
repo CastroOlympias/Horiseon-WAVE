@@ -12,4 +12,4 @@ I removed unnecessary boxes/elements within index.html and styles from stylse.cs
 
 I made sure to fix broken hyperlinks and added alt attributes to the image links
 
-I changed the title name to Horiseon
+I changed the title name to Horiseon - WAVE
